@@ -1,5 +1,9 @@
-# Phidgets
+# Phidgets for Geany
 Tutorial Support for Running Phidgets on MAC and PC's from Geany/Command Line
+
+There are several reasons for testing and troubleshooting running Phidgets from the terminal or simpler editors, 
+However - I think there is much to be learned from learning to troubleshoot and breakfix.
+Some are permission related, some are Java Version related, and one was even a machine permisssion issue.
 
 #MAC
 Go through the Tutorials to Configure your Phidget for MAC or Windows OS
