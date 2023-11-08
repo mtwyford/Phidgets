@@ -38,8 +38,8 @@ Enter as follows:
 ###COMPILE:
 	javac -cp phidget22.jar "%f"
 
-###RUN:  **NOTE THIS IS DIFFERENT IN WIONDOWS V MAC**
-         **Note classpath is typed out and it's a semi colon instead of a colon
-	java -classpath ".;phidget22.jar" "%e.java" 
+###RUN: ** NOTE THIS IS DIFFERENT IN WIONDOWS V MAC**
+        ** Note classpath is typed out and it's a semi colon instead of a colon
+	## java -classpath ".;phidget22.jar" "%e.java" 
 
   
