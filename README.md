@@ -36,10 +36,11 @@ Follow similar steps, as above
 ##Create new Custom actions for Compile and Run (Build)
 Enter as follows:
 ###COMPILE:
-	javac -cp phidget22.jar "%f"
+	
+## javac -cp phidget22.jar "%f"
 
-###RUN: ** NOTE THIS IS DIFFERENT IN WIONDOWS V MAC**
+### RUN: ** NOTE THIS IS DIFFERENT IN WIONDOWS V MAC**
         ** Note classpath is typed out and it's a semi colon instead of a colon
-	## java -classpath ".;phidget22.jar" "%e.java" 
+## java -classpath ".;phidget22.jar" "%e.java" 
 
   
